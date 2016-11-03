@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_3dfaa7c1f99fd569cec4a7b2dd36ea6f27a7877b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7ae9aa0d589b26bd94dde6f1d3deca82ba4c70a8">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0df7e1090438b81f89e8014f8f51971b1c814745\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_719490d2da06ea725276b86efab6b6514477d842\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_cec246732afb1569dd6db70958b72cf8662f9097\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_a2c807f3e70533646aa4d665e04c1329751f8794\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_da1dd263dc985e77b18488e1358a0cc919be54e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_526daa1f275efb23fbbde5508d7e390214ba549e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_eb54c385781c0757608e7174082773ae4bb4a8d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_b89e1630b373678ffe1f199c4c85aa1bb4273eb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_12a8185c578d449189475f1be93e46cc4fa5ff5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_ddebffb53dd4ea5c39db4ec274ecf2f2596703fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d64a35e564917d843e5121647a225696471c4285\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_82c27005aa29f5492c8c6028895a19db35f79d38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_e8e9aa31532f96b0aae13fc61b507b36b56c0eea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6689a9ebb9bdefcc7ef9b70135301630b7553df9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_be7da45a26d6c3be9f48b91beeabf594a8594ab0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ba412d9e4f841eb1068e62bcf05fc83221b06d24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cc88fe95adf89e20dffae182724bbad3f1a288eb">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a0b204edfc1482028a561d3edfbfeab84640af88\classes.dex" />
+    </item>
+
+</items>

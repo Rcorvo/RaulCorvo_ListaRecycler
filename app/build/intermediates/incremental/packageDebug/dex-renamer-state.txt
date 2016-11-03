@@ -1,0 +1,7 @@
+#Thu Nov 03 17:13:04 CET 2016
+base.0=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListaconRecyclerView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a0b204edfc1482028a561d3edfbfeab84640af88
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListaconRecyclerView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0df7e1090438b81f89e8014f8f51971b1c814745\\classes.dex
+base.1=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListaconRecyclerView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0df7e1090438b81f89e8014f8f51971b1c814745
+file.0=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListaconRecyclerView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a0b204edfc1482028a561d3edfbfeab84640af88\\classes.dex
