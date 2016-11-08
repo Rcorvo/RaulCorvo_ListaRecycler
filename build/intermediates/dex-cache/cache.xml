@@ -12,11 +12,20 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_2b77f735333f671d497ad2776bb65043f66f7885\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="7ae9aa0d589b26bd94dde6f1d3deca82ba4c70a8">
+        sha1="33b7dfce9397ba2a8370208f053d127535ace730">
         <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0df7e1090438b81f89e8014f8f51971b1c814745\classes.dex" />
     </item>
     <item
@@ -160,7 +169,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="cc88fe95adf89e20dffae182724bbad3f1a288eb">
+        sha1="854e0c8382b5e6dd2fa99afb78b159152da72ded">
         <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\ListaconRecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a0b204edfc1482028a561d3edfbfeab84640af88\classes.dex" />
     </item>
 

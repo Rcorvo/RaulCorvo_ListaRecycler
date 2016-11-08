@@ -24,12 +24,12 @@
         "source": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListaconRecyclerView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListaconRecyclerView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListaconRecyclerView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
         "merged": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListaconRecyclerView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
         "source": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListaconRecyclerView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListaconRecyclerView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListaconRecyclerView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
         "merged": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListaconRecyclerView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
@@ -136,12 +136,12 @@
         "source": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListaconRecyclerView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListaconRecyclerView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListaconRecyclerView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_select_dialog_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListaconRecyclerView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
         "source": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListaconRecyclerView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListaconRecyclerView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListaconRecyclerView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
         "merged": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListaconRecyclerView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
