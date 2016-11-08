@@ -24,10 +24,12 @@ public class RecyclerViewActivity extends AppCompatActivity {
         return recyclerView;
     }
 
+    //Metodo que aplica el adaptador que le pasemos por parámetro
     public void setAdapter(RecyclerView.Adapter adapter){
         getRecyclerView().setAdapter(adapter);
     }
 
+    //Metodo que nos devuelve el adaptador que tenga el pripio RecyclerView
     public RecyclerView.Adapter getAdapter(){
         return(getRecyclerView().getAdapter());
     }
