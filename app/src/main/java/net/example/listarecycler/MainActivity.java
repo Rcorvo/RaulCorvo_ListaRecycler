@@ -8,6 +8,8 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.yqritc.recyclerviewflexibledivider.HorizontalDividerItemDecoration;
+
 public class MainActivity extends RecyclerViewActivity {
 
     private static final String[] items = {"En", "un", "lugar", "de", "la", "Mancha",
@@ -19,6 +21,13 @@ public class MainActivity extends RecyclerViewActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setLayoutManager(new LinearLayoutManager(this));
+
+        RecyclerView.ItemDecoration separator =
+                new HorizontalDividerItemDecoration.Builder(this)
+                .color(R.color.colorPrimary)
+                .build();
+        getRecyclerView().addItemDecoration(separator);
+
         setAdapter(new AdaptadorConIcono());
     }
 
